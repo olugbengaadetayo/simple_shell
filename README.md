@@ -1,1 +1,1 @@
-simple-shell (group project - Adetayo Olugbenga/Paul Michael)
+A project on simple_shell (group project - Adetayo Olugbenga/Paul Michael)
